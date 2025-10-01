@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Discussions / FAQ
+    url: https://github.com/Shiryou/BirP/discussions
+    about: For questions or concerns that aren't directly related to code changes.
+  - name: Security Reports
+    url: https://www.kiranwelle.com/
+    about: Please report security vulnerabilities to the head maintainer.
+  - name: Birthright.net
+    url: http://www.birthright.net/forums/
+    about: The Birthright TTRPG community forums.
+  - name: Birthright Online Discord
+    url: https://discord.gg/9pjZKFx
+    about: The Birthright TTRPG Discord server.
